@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MainGame.cpp
+E:\Uni\3rd Year\GP2\Graphics\GpLab\Lab7Solution\Lab1\MainGame.cpp(15,9): warning C4930: 'Shader celShader(void)': prototyped function not called (was a variable definition intended?)
+E:\Uni\3rd Year\GP2\Graphics\GpLab\Lab7Solution\Lab1\MainGame.cpp(16,9): warning C4930: 'Shader geoShader(void)': prototyped function not called (was a variable definition intended?)
+E:\Uni\3rd Year\GP2\Graphics\GpLab\Lab7Solution\Lab1\MainGame.cpp(17,9): warning C4930: 'Shader eMapping(void)': prototyped function not called (was a variable definition intended?)
+  Lab1.vcxproj -> E:\Uni\3rd Year\GP2\Graphics\GpLab\Lab7Solution\Debug\Lab1.exe
